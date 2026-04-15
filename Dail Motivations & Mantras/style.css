@@ -1,0 +1,29 @@
+body {
+  font-family: 'Fineday One', sans-serif;
+  text-align: center;
+  margin: 0;
+  background: #f4f4f4;
+}
+
+header {
+  background: #4CAF50;
+  color: white;
+  padding: 20px;
+}
+
+.highlight {
+  font-style: italic;
+}
+
+section {
+  padding: 20px;
+}
+
+footer {
+  background: #222;
+  color: white;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
